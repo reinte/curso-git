@@ -16,6 +16,6 @@ public class Ejemplo {
     }
     
     public static void printJosue(){
-        System.out.println("Curso de git, att Josue");
+        System.out.println("att Josue");
     }
 }
