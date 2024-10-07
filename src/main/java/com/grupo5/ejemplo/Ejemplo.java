@@ -14,10 +14,15 @@ public class Ejemplo {
         System.out.println("Curso git");
         printJosue();
         printCharlie();
+        printDanilo();
     }
     
     public static void printJosue(){
-        System.out.println("Curso de git, att Josue");
+        System.out.println("att Josue");
+    }
+    
+    public static void printDanilo(){
+        System.out.println("att Danilo");
     }
     
     public static void printCharlie(){
