@@ -13,6 +13,7 @@ public class Ejemplo {
     public static void main(String[] args) {
         System.out.println("Curso git");
         printJosue();
+        printCharlie();
         printDanilo();
     }
     
@@ -22,5 +23,9 @@ public class Ejemplo {
     
     public static void printDanilo(){
         System.out.println("att Danilo");
+    }
+    
+    public static void printCharlie(){
+        System.out.println("Curso de git, att Charlie");
     }
 }
