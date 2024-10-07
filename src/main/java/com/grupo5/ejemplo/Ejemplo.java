@@ -13,9 +13,14 @@ public class Ejemplo {
     public static void main(String[] args) {
         System.out.println("Curso git");
         printJosue();
+        printDanilo();
     }
     
     public static void printJosue(){
         System.out.println("att Josue");
+    }
+    
+    public static void printDanilo(){
+        System.out.println("att Danilo");
     }
 }
